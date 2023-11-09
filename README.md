@@ -1,5 +1,5 @@
 # Who am I?
- I am **Aadishesh Udupa K**. I am currently persuing *second* year CSE graduate at ~~IIT~~PES University,Banglore
+ I am **Aadishesh Udupa K**. I am currently persuing *second* year CSE graduate at ~~IIT~~ PES University,Banglore
 
 # Why am I here?
  To learn some ==crazy stuff==.
