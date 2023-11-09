@@ -2,10 +2,10 @@
  I am **Aadishesh Udupa K**. I am currently persuing *second* year CSE graduate at ~~IIT~~ PES University,Banglore
 
 # Why am I here?
- To learn some ==crazy stuff==.
+ To learn some `crazy stuff`.
  
 # What do I know?
- I know a little bit of `python` `C++` 
+ I know a little bit of `python`  
  
 # platforms
 coding profiles|links
